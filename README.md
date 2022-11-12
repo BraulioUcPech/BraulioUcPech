@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/braulioucpech" target="blank"><img src="https://img.shields.io/twitter/follow/braulioucpech?logo=twitter&style=for-the-badge" alt="braulioucpech" /></a> </p>
 
-gh repo clone dephraiim/dephraiim
+
 
 - 🔭 I’m currently working on **On further learning**
 
@@ -17,7 +17,8 @@ gh repo clone dephraiim/dephraiim
 
 - 📫 How to reach me **braulioalexsanderucpech@gmail.com**
 
-- ⚡ Fun fact **Me gusta el jugo de Jamaica**
+- ⚡ Fun fact **Me gusta el jugo de Jamaica**[README.md](https://github.com/BraulioUcPech/BraulioUcPech/files/9993865/README.md)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
